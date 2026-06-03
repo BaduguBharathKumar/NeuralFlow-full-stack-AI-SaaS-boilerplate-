@@ -1,0 +1,12 @@
+.env
+.env.local
+.env.*.local
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+dist/
+.DS_Store
+*.pem
+coverage/
+prisma/*.db
